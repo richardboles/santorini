@@ -1,0 +1,65 @@
+body {
+   text-align: center;
+   background-image: url('images/santorini8.jpg');
+   background-size: 100% 200px;
+   background-repeat: no-repeat;
+}
+
+h1 {
+   font-family: 'Sofia';
+   text-align: center;
+   color: grey;
+   font-size: 6em;
+   text-shadow: 5px 4px #183f5c;
+   margin-top: -5px;
+}
+
+h3 {
+   color: black;
+   text-align: center;
+   size: 25px;
+}
+
+.romano {
+   background-image: url('images/sanhotel1.jpg');
+   height: 500px;
+   width: 500px;
+   background-size: 500px 500px;
+   background-repeat: no-repeat;
+   background-position: 0px 5px; 
+   float: left;
+   padding: 15px;
+}
+
+.forever {
+   background-image: url('images/sanhotel2.jpg');
+   height: 500px;
+   width: 500px;
+   background-size: 500px 500px;
+   background-repeat: no-repeat;
+   background-position: 0px 5px; 
+   float: left;
+   padding: 15px;
+}
+
+.greeko {
+   background-image: url('images/sanhotel3.jpg');
+   height: 500px;
+   width: 500px;
+   background-size: 500px 500px;
+   background-repeat: no-repeat;
+   background-position: 0px 5px; 
+   float: left;
+   padding: 15px;
+}
+
+.santoro {
+   background-image: url('images/sanhotel4.jpg');
+   height: 500px;
+   width: 500px;
+   background-size: 500px 500px;
+   background-repeat: no-repeat;
+   background-position: 0px 5px; 
+   float: left;
+   paddig: 15px;
+}

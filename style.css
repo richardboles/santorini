@@ -1,0 +1,161 @@
+body { 
+    background-image: url('images/santorini8.jpg');
+    background-size: 100% 160px;
+    background-repeat: no-repeat;
+    background-color: white;
+    background-position: 0px 5px; 
+
+}
+
+.title h1 {
+    font-family: 'Sofia';
+    text-align: center;
+    color: grey;
+    font-size: 5em;
+    text-shadow: 5px 4px #183f5c;
+    margin-top: 15px;
+}
+
+.travel h4 {
+    font-family: 'Sofia';
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 25px;
+    text-shadow: 3px 3px #183f5c;
+}
+
+.navbar ul li {
+    display: inline;
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+}
+
+.navbar li a {
+    color: grey;
+    text-decoration: none;
+    list-style-type: none;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.navbar li a:hover {
+    background-color: skyblue;
+}
+
+input[type=text] {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+
+.arrival {
+    text-align: center;
+}
+
+.departure {
+    text-align: center;
+}
+
+.plan {
+    background-image: url('images/santorini11.jpg');
+    height: 350px;
+    width: 95%;
+    text-align: center;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 80% 100%;
+}
+
+.plan p {
+    color: white;
+    font-size: 25px;
+}
+
+.plan button {
+    background-color: grey;
+    color: white;
+}
+
+h2 {
+    font-family: 'Sofia';
+    text-align: center;
+    color: grey;
+    text-shadow: 1px 1px #183f5c;
+}
+
+.events {
+    font-family: 'Sofia';
+    text-align: center;
+    color: black;
+    margin-top: 30;
+    background-image: url('images/sanevents2.jpg');
+    height: 350px;
+    width: 95%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 80% 100%;
+}
+
+.btn btn-primary btn-lg {
+    text-align: center;
+    margin-top: 33px;
+}
+
+.mbody {
+    background-color: lightblue;
+}
+
+.history h2 {
+    font-family: 'Sofia';
+    text-align: center;
+    color: black;
+    margin-top: 300;
+    margin-left: 44%;
+    width: 80px;
+    height: 40px;
+    background-color: lightblue;
+    -webkit-animation-name: example; 
+    -webkit-animation-duration: 20s; 
+    animation-name: example;
+    animation-duration: 20s;
+}
+
+@-webkit-keyframes example {
+    from {background-color: white;}
+    to {background-color: blue;}
+}
+
+@keyframes example {
+    from {background-color: white;}
+    to {background-color: blue;}
+}
+
+.text p {
+    color: black;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: -30;
+}
+
+.copyright {
+    background-image: url('images/santorini8.jpg');
+    background-size: 100% 200px;
+    background-repeat: no-repeat; 
+}
+
+
+
+
+
